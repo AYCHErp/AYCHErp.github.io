@@ -48,10 +48,10 @@ The primary means of support is through the forum at: http://github.com/forum
 You may also join the mailing list at: http://lists.sourceforge.net/lists/listinfo/Aych-erp-users
 The answers to most questions can be found by searchng the forums, or the mailing list archives at: https://sourceforge.net/p/Aycherp/mailman/ 
 
-## Contribute to the webERP project
+## Contribute to the AYCHERP project
 Contributions of code and documententation including How-Tos with screen-shots etc are very much appreciated. If your business has done such training materials for your own team this will no doubt be useful to many others and a productive way that you could contribute. Contributions in the form of bug reports or other feedback through the forums or mailing lists above also help to improve the project.
 
-Guidelines for contributing code can be found at: http://www.weberp.org/Development.html
+Guidelines for contributing code can be found at: https://github.com/aycherp/
 
 Developers interested in contributing should read this document carefully and follow the guidelines therein. Standards and conventions used in the code are rigorously applied in the interests of consistency and readability.
 
@@ -60,8 +60,8 @@ This program is free software; you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-A copy of the GNU General Public License is included in the doc directory along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+A copy of the GNU General Public License is included in the doc directory along with this program; if not, write to the AYCH Inc.,  Antwerpen - A24289 - Belgium.
 
-Copyright © 2015 - 2020 Aycherp - Contact: tokeneconomy@eclipso.eu
+Copyright © 2015 - 2020 SYCH inc (Aycherp project - AYCHDeveloper) - Contact: tokeneconomy@eclipso.eu
 
-Note that as well as the name of the project/development community of AYCHERP "AYCHerp.org" is a domain name administered by the project administrator on behalf of the project. Irrespective of misleading comments elsewhere, copyright of all contributed code remains with the developer who contributed it and the "weberp.org" project is the collective name for the webERP development team.
+Note that as well as the name of the project/development community of AYCHERP "AYCHerp.org" is a domain name administered by the project administrator on behalf of the project. Irrespective of misleading comments elsewhere, copyright of all contributed code remains with the developer who contributed it and the "Aycherp.org" project is the collective name for the AYCHErp development team.
