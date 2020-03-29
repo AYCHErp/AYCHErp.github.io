@@ -1,15 +1,15 @@
-# [AYCHERP - A management system of enterprises resources (ERP) for Accounting and Business Administration](http://http://AYCHerp.github.io/) 
-[![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dm/web-erp.svg)](http://sourceforge.net/projects/web-erp/files/latest/download) [![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dt/Aycherp.svg)](http://sourceforge.net/projects/web-erp/files/latest/download) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/webERP-team/webERP/master.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/webERP-team/webERP.svg)
+# [AYCHErp - A management system of enterprises resources (ERP) for Accounting and Business Administration](http://http://AYCHErp.github.io/) 
+[![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dm/AYCHerp.svg)](http://sourceforge.net/projects/AYCHErp/files/latest/download) [![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dt/Aycherp.svg)](http://sourceforge.net/projects/AYCHerp/files/latest/download) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AYCHErp-team/AYCHErp/master.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/AYCHErp-team/AYCHErp.svg)
 ## Introduction
-AYCHERP is a free open-source ERP system, providing best practise, multi-user business administration and accounting tools over the web. For further information and for a full list of features, please visit the support site at: https://aycherp.github.io/
+AYCHErp is a free open-source ERP system, providing best practise, multi-user business administration and accounting tools over the web. For further information and for a full list of features, please visit the support site at: https://aycherp.github.io/
 
 ## Demo
-A live demo of the latest release is available on the AYCHErp support site, where you can login and experiment with all the webERP features: http://github.com/AYCHerp/
+A live demo of the latest release is available on the AYCHErp support site, where you can login and experiment with all the AYCHErp features: http://github.com/AYCHerp/
 
 ## Download
 The latest stable version is currently v4.15.1, and can be downloaded from SourceForge.
 [![Download Latest Official Zen Cart&reg; Release](https://a.fsdn.com/con/app/sf-download-button)
-Download the latest official AYCHErp release](http://sourceforge.net/projects/web-erp/files/latest/download)
+Download the latest official AYCHErp release](http://sourceforge.net/projects/AYCHerp/files/latest/download)
 
 ## Requirements
 - A web server - AYCHErp has been tested on Apache, NGINX, lighthttpd, and Hiawatha
@@ -40,7 +40,7 @@ Further information about hardware and software requirements is available in the
 Further information about installation and upgrading is available in the [documentation](http://github.com/Aycherp/ManualContents.php?ViewTopic=GettingStarted).
 
 ## Documentation
-The webERP documentation is included in every installation, and can accessed by clicking on the `Manual` button on the top menu bar. The documentation is also available within the [live demo.](http://github.com/AYCHerp/ManualContents.php)
+The AYCHERrp documentation is included in every installation, and can accessed by clicking on the `Manual` button on the top menu bar. The documentation is also available within the [live demo.](http://github.com/AYCHerp/ManualContents.php)
 
 ## Support
 Free support is available 24/7, provided by our enthusiastic community of actual AYCHErp users, integrators, and the developers themselves.
