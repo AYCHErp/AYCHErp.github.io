@@ -1,7 +1,7 @@
 # [AYCHERP - A management system of enterprises resources (ERP) for Accounting and Business Administration](http://http://AYCHerp.github.io/) 
-[![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dm/web-erp.svg)](http://sourceforge.net/projects/web-erp/files/latest/download) [![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dt/web-erp.svg)](http://sourceforge.net/projects/web-erp/files/latest/download) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/webERP-team/webERP/master.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/webERP-team/webERP.svg)
+[![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dm/web-erp.svg)](http://sourceforge.net/projects/web-erp/files/latest/download) [![Download Zen Cart&reg;](https://img.shields.io/sourceforge/dt/Aycherp.svg)](http://sourceforge.net/projects/web-erp/files/latest/download) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/webERP-team/webERP/master.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/webERP-team/webERP.svg)
 ## Introduction
-AYCHERP is a free open-source ERP system, providing best practise, multi-user business administration and accounting tools over the web. For further information and for a full list of features, please visit the support site at: http://www.weberp.org/
+AYCHERP is a free open-source ERP system, providing best practise, multi-user business administration and accounting tools over the web. For further information and for a full list of features, please visit the support site at: https://aycherp.github.io/
 
 ## Demo
 A live demo of the latest release is available on the webERP support site, where you can login and experiment with all the webERP features: http://github.com/AYCHerp/
