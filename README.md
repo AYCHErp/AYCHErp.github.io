@@ -4,7 +4,7 @@
 AYCHERP is a free open-source ERP system, providing best practise, multi-user business administration and accounting tools over the web. For further information and for a full list of features, please visit the support site at: https://aycherp.github.io/
 
 ## Demo
-A live demo of the latest release is available on the webERP support site, where you can login and experiment with all the webERP features: http://github.com/AYCHerp/
+A live demo of the latest release is available on the AYCHErp support site, where you can login and experiment with all the webERP features: http://github.com/AYCHerp/
 
 ## Download
 The latest stable version is currently v4.15.1, and can be downloaded from SourceForge.
