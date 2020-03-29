@@ -7,8 +7,8 @@ AYCHErp is a free open-source ERP system, providing best practise, multi-user bu
 A live demo of the latest release is available on the AYCHErp support site, where you can login and experiment with all the AYCHErp features: http://github.com/AYCHerp/
 
 ## Download
-The latest stable version is currently v4.15.1, and can be downloaded from SourceForge.
-[![Download Latest Official Zen Cart&reg; Release](https://a.fsdn.com/con/app/sf-download-button)
+The latest stable version is currently v4.15.1, and can be downloaded from AYCHErp.
+[![Download or Install Latest Official Release](https://github.com/apps/aycherp)
 Download the latest official AYCHErp release](https://github.com/AYCHerp/aycherp/download)
 
 ## Requirements
