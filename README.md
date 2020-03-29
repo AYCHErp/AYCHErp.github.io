@@ -46,7 +46,7 @@ The AYCHERrp documentation is included in every installation, and can accessed b
 Free support is available 24/7, provided by our enthusiastic community of actual AYCHErp users, integrators, and the developers themselves.
 The primary means of support is through the forum at: https://gittet.im/Aychdevelopers/
 You may also join the mailing list at: https://gittet.im/Aychdevelopers/
-The answers to most questions can be found by searchng the forums, or the mailing list archives at: https://sourceforge.net/p/Aycherp/mailman/ 
+The answers to most questions can be found by searchng the forums, or the mailing list archives at: https://gitter.im/AYCHDevelopers/Community/
 
 ## Contribute to the AYCHErp project
 Contributions of code and documententation including How-Tos with screen-shots etc are very much appreciated. If your business has done such training materials for your own team this will no doubt be useful to many others and a productive way that you could contribute. Contributions in the form of bug reports or other feedback through the forums or mailing lists above also help to improve the project.
@@ -56,7 +56,7 @@ Guidelines for contributing code can be found at: https://github.com/aycherp/
 Developers interested in contributing should read this document carefully and follow the guidelines therein. Standards and conventions used in the code are rigorously applied in the interests of consistency and readability.
 
 ## Legal
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the License.
+This program is a SaaS package; you can register a token to redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; version 2 of the License.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
