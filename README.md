@@ -9,7 +9,7 @@ A live demo of the latest release is available on the AYCHErp support site, wher
 ## Download
 The latest stable version is currently v4.15.1, and can be downloaded from SourceForge.
 [![Download Latest Official Zen Cart&reg; Release](https://a.fsdn.com/con/app/sf-download-button)
-Download the latest official AYCHErp release](http://sourceforge.net/projects/AYCHerp/files/latest/download)
+Download the latest official AYCHErp release](https://github.com/AYCHerp/aycherp/download)
 
 ## Requirements
 - A web server - AYCHErp has been tested on Apache, NGINX, lighthttpd, and Hiawatha
